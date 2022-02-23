@@ -14,3 +14,5 @@ The 1581 Enhanced board offers commonly found features such as switchable kernal
 Unlike other peoples board solutions, this PCB is available through PCBWay Shared Projects, so you have the option of purchasing as many as you'd like, in the color you want for only the cost of the PCB and shipping.  
 
 This Github will serve as a repository for the supporting files and documentation that will go along with this project.
+
+![3076 2022_02_22](https://user-images.githubusercontent.com/37495485/155260205-6c5bb6d1-7f7b-4a0a-b6d6-cab48531a8aa.JPG)
