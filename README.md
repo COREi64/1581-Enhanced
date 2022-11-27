@@ -15,4 +15,8 @@ Unlike other peoples board solutions, this PCB is available through PCBWay Share
 
 This Github will serve as a repository for the supporting files and documentation that will go along with this project.
 
+Order your boards through the following link:
+
+<a href="https://www.pcbway.com/project/shareproject/Commodore_1581_Enhanced_Drive_Board_fcc9554b.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
 ![3076 2022_02_22](https://user-images.githubusercontent.com/37495485/155260205-6c5bb6d1-7f7b-4a0a-b6d6-cab48531a8aa.JPG)
